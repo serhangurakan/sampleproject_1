@@ -1,0 +1,16 @@
+{
+  "name": "sample-project-photos",
+  "version": "1.0.0",
+  "description": "Lance Light Project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Serhan Gürakan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
